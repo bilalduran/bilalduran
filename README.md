@@ -12,19 +12,10 @@ Jr.Front-End Developer | Electrical Electronics Engineering Student
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bilalduran&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalduranhttps://github-readme-streak-stats.herokuapp.com/?user=bilalduran"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=bilalduran&&show_icons=true&count_private=true&include_all_commits=true"/></p>
 
 </details>
 
-<details>
-<summary> 💻 Most Used Languages</summary>
-
-<p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalduran&layout=compact&theme=blue)](https://github.com/bilalduran)
-
-</p>
-</details>
 
 
 <!--
