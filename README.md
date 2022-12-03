@@ -5,15 +5,18 @@ Jr.Front-End Developer | Electrical Electronics Engineering Student
 - I've been trying to improve myself on javascript lately.
 - I am still working on a web panel project on behalf of server management.
 
-
 <br />
 
+<details >
 <summary> 💡 Github Stats</summary>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=bilalduran&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozantekinhttps://github-readme-streak-stats.herokuapp.com/?user=bilalduran"/></p>
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=bilalduran&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalduranhttps://github-readme-streak-stats.herokuapp.com/?user=bilalduran"/></p>
+
+</details>
+
+<details>
 <summary> 💻 Most Used Languages</summary>
 
 <p>
@@ -21,6 +24,7 @@ Jr.Front-End Developer | Electrical Electronics Engineering Student
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalduran&layout=compact&theme=blue)](https://github.com/bilalduran)
 
 </p>
+</details>
 
 
 <!--
