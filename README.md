@@ -19,15 +19,10 @@ Jr.Front-End Developer | Electrical Electronics Engineering Student
 <details >
 <summary> 💡 About Me</summary>
 
-<p>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="bilal-duran-539870225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/bilal-duran-539870225?trk=profile-badge">Bilal Duran</a></div>
+              
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- 
- <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="bilal-duran-539870225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/bilal-duran-539870225?trk=profile-badge">Bilal Duran</a></div>
-              
-</details>
-
-
 
 <!--
 **bilalduran/bilalduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
