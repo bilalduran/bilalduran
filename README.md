@@ -1,6 +1,6 @@
 ### Bilal Duran 👋
  
-Jr.Front-End Developer | Electrical Electronics Engineering Student
+Electrical Electronics Engineering Student
 
 - I've been trying to improve myself on javascript lately.
 - I am still working on a web panel project on behalf of server management.
@@ -16,8 +16,7 @@ Jr.Front-End Developer | Electrical Electronics Engineering Student
 
 </details>
 
-<details >
-<summary> 💡 About Me</summary>
+
 
 
 <!--
