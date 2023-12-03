@@ -2,9 +2,6 @@
  
 Electrical Electronics Engineering Student
 
-- I've been trying to improve myself on javascript lately.
-- I am still working on a web panel project on behalf of server management.
-
 <br />
 
 <details >
